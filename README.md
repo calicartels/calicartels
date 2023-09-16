@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **tm.vishnu.m@gmail.com**
 
-- ⚡ Fun fact **Don't judge me over my Account name 😭, my edgy 17 y/o didn't know the meaning of consequences**
+- ⚡ Fun fact **Don't judge me over my Account name 😭, my 17 y/o self didn't know the meaning of consequences**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
