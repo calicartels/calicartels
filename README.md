@@ -5,8 +5,6 @@ Love exploring Video transformers and generative AI❗</h3>
 <img align="right" alt="Coding" width="400" src="https://dealroom.co/uploaded/2016/07/giphy.gif?x92057">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calicartels&label=Profile%20views&color=0e75b6&style=flat" alt="calicartels" /> </p>
 
-- 🔭 I’m currently working on [Blind.ai](https://github.com/calicartels/blind.ai)
-
 - 🌱 I’m currently learning **networkx, PyTorch geometric**
 
 - 🤝 I’m looking for help with [Video captioning using VSG](https://github.com/calicartels/Video-Captioning)
@@ -15,7 +13,6 @@ Love exploring Video transformers and generative AI❗</h3>
 
 - 📫 How to reach me **tm.vishnu.m@gmail.com**
 
-- ⚡ Fun fact **Don't judge me over my Account name 😭, my 17 y/o self didn't know the meaning of consequences**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
