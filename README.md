@@ -1,20 +1,49 @@
-[![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)
+<!-- Header with gradient styling -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=TM%20Vishnu%20Mukundan&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" alt="header" />
+</div>
 
-<h1 align="center">Hi 👋, I'm TM Vishnu Mukundan</h1>
-<h3 align="center">AI Engineer | Specializing in Video Transformers & Generative AI</h3>
+<h2 align="center">Currently at Duke, doing my Grad in AI</h2>
+
+<h3 align="center">AI Engineer | Specializing in Agentic Systems & Generative AI</h3>
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-mukundan-tm)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/calicartels)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tm.vishnu.m@gmail.com)
+  
+</div>
 
 <img align="right" alt="Coding" width="400" src="https://dealroom.co/uploaded/2016/07/giphy.gif?x92057">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calicartels&label=Profile%20views&color=0e75b6&style=flat" alt="calicartels" /> </p>
 
 ## 🚀 About Me
-- 🔭 I'm currently working on **Agentic Systems** and **AI-powered Developer Tools**
-- 🌱 I'm currently learning **NetworkX, PyTorch Geometric** for advanced graph neural networks
-- 🤝 I'm looking for collaborators on [Video Captioning using VSG](https://github.com/calicartels/Video-Captioning)
+- 🎓 Currently pursuing grad studies in AI at **Duke University**
+- 🔭 Working on **Agentic Systems** and **AI-powered Developer Tools**
 - 💬 Specializing in **Machine Learning, Computer Vision, OCR & Video Transformers**
 - 📫 Reach me at **tm.vishnu.m@gmail.com**
 
 ## 🏆 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/calicartels/Agentic-Chatbot--Duke-Themed">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=calicartels&repo=Agentic-Chatbot--Duke-Themed&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/calicartels/HyperExplainer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=calicartels&repo=HyperExplainer&theme=tokyonight" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/calicartels/blind.ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=calicartels&repo=blind.ai&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/calicartels/Capstone---ProAxion-Chatbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=calicartels&repo=Capstone---ProAxion-Chatbot&theme=tokyonight" />
+  </a>
+</div>
 
 ### [Agentic Chatbot (Duke-Themed)](https://github.com/calicartels/Agentic-Chatbot--Duke-Themed)
 - Dual implementation: Custom agentic chatbot built from scratch and Google Cloud Conversational Agents version
@@ -28,12 +57,19 @@
 - **Technologies**: Flask, Python, React, TypeScript, Chrome Extension API, Chart.js
 
 ### [Blind.AI](https://github.com/calicartels/blind.ai)
-- Application to aid visually impaired users in navigating surroundings
+- An app that makes the lives of individuals with Visual Impairment a little easier!
 - Features include voice commands, object detection, distance measurement, currency recognition
-- **Technologies**: Flask, Python, YOLOv5, Computer Vision, Text-to-Speech
+- **Technologies**: Flask, Python, YOLOv5, Computer Vision, Text-to-Speech, Dart
+
+### [ProAxion Chatbot](https://github.com/calicartels/Capstone---ProAxion-Chatbot)
+- Industrial chatbot for machine sensor data interpretation and predictive maintenance
+- Designed for manufacturing environments to provide real-time insights on equipment health
+- **Technologies**: LangChain, Python, OpenAI API, React, JavaScript, Time Series Analysis
 
 ## 🛠️ Skills & Technologies
 
+<div align="center">
+  
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -49,31 +85,33 @@
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ### AI/ML
 ![Generative AI](https://img.shields.io/badge/Generative_AI-FF5A5F?style=for-the-badge&logo=openai&logoColor=white)
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-3776AB?style=for-the-badge&logo=opencv&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-0081CB?style=for-the-badge&logo=openai&logoColor=white)
 ![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6F61?style=for-the-badge&logoColor=white)
+![Graph Neural Networks](https://img.shields.io/badge/Graph_Neural_Networks-6236FF?style=for-the-badge&logo=graphql&logoColor=white)
+
+### Cloud & DevOps
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ## 📊 GitHub Stats
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=calicartels&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="calicartels" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=calicartels&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="calicartels" />
+</div>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=calicartels&show_icons=true&locale=en&theme=tokyonight" alt="calicartels" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=calicartels&show_icons=true&locale=en&theme=tokyonight" alt="calicartels" />
+</div>
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=calicartels&theme=tokyonight" alt="calicartels" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=calicartels&theme=tokyonight" alt="calicartels" />
+</div>
 
-## 🤝 Connect With Me
-<p align="left">
-<a href="https://linkedin.com/in/vishnu-mukundan-tm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnu-mukundan-tm" height="30" width="40" /></a>
-</p>
+<!-- Footer with animated wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
