@@ -1,117 +1,145 @@
-<!-- Header with gradient styling -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=TM%20Vishnu%20Mukundan&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=white" alt="header" />
-</div>
 
-<h2 align="center">Currently at Duke, doing my Grad in AI</h2>
+# Hey, I'm Vishnu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-<h3 align="center">AI Engineer | Specializing in Agentic Systems & Generative AI</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=AI+Engineer;Duke+MEng+AI+'25;LLMs+%7C+Computer+Vision+%7C+Agentic+Systems)](https://git.io/typing-svg)
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-mukundan-tm)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/calicartels)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tm.vishnu.m@gmail.com)
-  
+[![LinkedIn](https://img.shields.io/badge/-vishnu--mukundan--tm-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishnu-mukundan-tm)&nbsp;
+[![Email](https://img.shields.io/badge/-tm.vishnu.m@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tm.vishnu.m@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/badge/-calicartels-181717?style=flat&logo=github&logoColor=white)](https://github.com/calicartels)&nbsp;
+![](https://komarev.com/ghpvc/?username=calicartels&color=30363d&style=flat&label=profile+views)
+
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://dealroom.co/uploaded/2016/07/giphy.gif?x92057">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=calicartels&label=Profile%20views&color=0e75b6&style=flat" alt="calicartels" /> </p>
+<br>
 
-## 🚀 About Me
-- 🎓 Currently pursuing grad studies in AI at **Duke University**
-- 🔭 Working on **Agentic Systems** and **AI-powered Developer Tools**
-- 💬 Specializing in **Machine Learning, Computer Vision, OCR & Video Transformers**
-- 📫 Reach me at **tm.vishnu.m@gmail.com**
+&nbsp; &nbsp; 🎓 &nbsp; Duke University — MEng in AI, 2025
 
-## 🏆 Featured Projects
+&nbsp; &nbsp; 🧠 &nbsp; Focused on LLMs, agentic systems & computer vision
+
+&nbsp; &nbsp; ⚡ &nbsp; Building things that think, see, and act
+
+<br><br><br><br><br><br><br>
+
+---
+
+<h2 align="center">Projects</h2>
 
 <div align="center">
   <a href="https://github.com/calicartels/Agentic-Chatbot--Duke-Themed">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=calicartels&repo=Agentic-Chatbot--Duke-Themed&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=calicartels&repo=Agentic-Chatbot--Duke-Themed&theme=github_dark&border_color=30363d&bg_color=0d1117" />
   </a>
   <a href="https://github.com/calicartels/HyperExplainer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=calicartels&repo=HyperExplainer&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=calicartels&repo=HyperExplainer&theme=github_dark&border_color=30363d&bg_color=0d1117" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/calicartels/blind.ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=calicartels&repo=blind.ai&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=calicartels&repo=blind.ai&theme=github_dark&border_color=30363d&bg_color=0d1117" />
   </a>
   <a href="https://github.com/calicartels/Capstone---ProAxion-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=calicartels&repo=Capstone---ProAxion-Chatbot&theme=tokyonight" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=calicartels&repo=Capstone---ProAxion-Chatbot&theme=github_dark&border_color=30363d&bg_color=0d1117" />
   </a>
 </div>
 
-### [Agentic Chatbot (Duke-Themed)](https://github.com/calicartels/Agentic-Chatbot--Duke-Themed)
-- Dual implementation: Custom agentic chatbot built from scratch and Google Cloud Conversational Agents version
-- Created an intelligent assistant with planning, tool execution, thinking, and evaluation capabilities
-- **Technologies**: LangGraph, Gemini API, Flask, React, Google Cloud, Custom Search API
+---
 
-### [HyperExplainer](https://github.com/calicartels/HyperExplainer)
-- Chrome extension with Python backend for explaining machine learning hyperparameters
-- Extract and analyze parameters using Google's Finetuned Gemini 1.5 Flash LLM
-- Visualize parameter impacts, compare configurations, and understand correlations
-- **Technologies**: Flask, Python, React, TypeScript, Chrome Extension API, Chart.js
-
-### [Blind.AI](https://github.com/calicartels/blind.ai)
-- An app that makes the lives of individuals with Visual Impairment a little easier!
-- Features include voice commands, object detection, distance measurement, currency recognition
-- **Technologies**: Flask, Python, YOLOv5, Computer Vision, Text-to-Speech, Dart
-
-### [ProAxion Chatbot](https://github.com/calicartels/Capstone---ProAxion-Chatbot)
-- Industrial chatbot for machine sensor data interpretation and predictive maintenance
-- Designed for manufacturing environments to provide real-time insights on equipment health
-- **Technologies**: LangChain, Python, OpenAI API, React, JavaScript, Time Series Analysis
-
-## 🛠️ Skills & Technologies
+<h2 align="center">Tech Stack</h2>
 
 <div align="center">
-  
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### AI/ML
-![Generative AI](https://img.shields.io/badge/Generative_AI-FF5A5F?style=for-the-badge&logo=openai&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-3776AB?style=for-the-badge&logo=opencv&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-0081CB?style=for-the-badge&logo=openai&logoColor=white)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-FF6F61?style=for-the-badge&logoColor=white)
-![Graph Neural Networks](https://img.shields.io/badge/Graph_Neural_Networks-6236FF?style=for-the-badge&logo=graphql&logoColor=white)
-
-### Cloud & DevOps
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+<table>
+<tr><td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
+  <br><sub>Python</sub>
+</td>
+<td align="center" width="96">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="48" height="48" />
+  <br><sub>PyTorch</sub>
+</td>
+<td align="center" width="96">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="HuggingFace" width="48" height="48" />
+  <br><sub>HuggingFace</sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="48" height="48" />
+  <br><sub>React</sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+  <br><sub>JavaScript</sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="48" height="48" />
+  <br><sub>Docker</sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="K8s" width="48" height="48" />
+  <br><sub>Kubernetes</sub>
+</td></tr>
+<tr><td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="48" height="48" />
+  <br><sub>AWS</sub>
+</td>
+<td align="center" width="96">
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="48" height="48" />
+  <br><sub>GCP</sub>
+</td>
+<td align="center" width="96">
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="48" height="48" />
+  <br><sub>OpenCV</sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="48" height="48" />
+  <br><sub>FastAPI</sub>
+</td>
+<td align="center" width="96">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="48" height="48" />
+  <br><sub>Flask</sub>
+</td>
+<td align="center" width="96">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="48" height="48" />
+  <br><sub>scikit-learn</sub>
+</td>
+<td align="center" width="96">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Git" width="48" height="48" />
+  <br><sub>Git</sub>
+</td></tr>
+</table>
 </div>
 
-## 📊 GitHub Stats
+---
+
+<h2 align="center">Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=calicartels&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="calicartels" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=calicartels&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=calicartels&show_icons=true" height="170" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=calicartels&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=calicartels&layout=compact" height="170" />
+  </picture>
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=calicartels&show_icons=true&locale=en&theme=tokyonight" alt="calicartels" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=calicartels&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=calicartels" />
+  </picture>
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=calicartels&theme=tokyonight" alt="calicartels" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=calicartels&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true" width="95%"/>
 </div>
 
-<!-- Footer with animated wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=100&section=footer" width="100%">
