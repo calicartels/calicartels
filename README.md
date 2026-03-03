@@ -27,23 +27,44 @@
 
 <h2 align="center">Projects</h2>
 
-<div align="center">
-  <a href="https://github.com/calicartels/Agentic-Chatbot--Duke-Themed">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=calicartels&repo=Agentic-Chatbot--Duke-Themed&theme=github_dark&border_color=30363d&bg_color=0d1117" />
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/calicartels/PicoChat">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=calicartels&repo=PicoChat&border_color=30363d&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" />
   </a>
-  <a href="https://github.com/calicartels/HyperExplainer">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=calicartels&repo=HyperExplainer&theme=github_dark&border_color=30363d&bg_color=0d1117" />
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/calicartels/SpeakWhenSpoken2">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=calicartels&repo=SpeakWhenSpoken2&border_color=30363d&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" />
   </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/calicartels/blind.ai">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=calicartels&repo=blind.ai&theme=github_dark&border_color=30363d&bg_color=0d1117" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/calicartels/EgoCut">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=calicartels&repo=EgoCut&border_color=30363d&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" />
   </a>
-  <a href="https://github.com/calicartels/Capstone---ProAxion-Chatbot">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=calicartels&repo=Capstone---ProAxion-Chatbot&theme=github_dark&border_color=30363d&bg_color=0d1117" />
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/calicartels/PersonaPlex-Voice-Diarization">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=calicartels&repo=PersonaPlex-Voice-Diarization&border_color=30363d&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" />
   </a>
-</div>
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+  <a href="https://github.com/notthattal/improviz">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=notthattal&repo=improviz&border_color=30363d&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" />
+  </a>
+</td>
+<td width="50%" align="center">
+  <a href="https://github.com/calicartels/UFC-fight-prediction-matrix">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=calicartels&repo=UFC-fight-prediction-matrix&border_color=30363d&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff" />
+  </a>
+</td>
+</tr>
+</table>
 
 ---
 
